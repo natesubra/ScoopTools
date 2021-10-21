@@ -1,0 +1,21 @@
+[submodule "BucketSubmodules/NerdFonts"]
+	path = BucketSubmodules/NerdFonts
+	url = https://github.com/matthewjberger/scoop-nerd-fonts
+[submodule "BucketSubmodules/Main"]
+	path = BucketSubmodules/Main
+	url = https://github.com/ScoopInstaller/Main
+[submodule "BucketSubmodules/Java"]
+	path = BucketSubmodules/Java
+	url = https://github.com/ScoopInstaller/Java
+[submodule "BucketSubmodules/scoop-games"]
+	path = BucketSubmodules/scoop-games
+	url = https://github.com/Calinou/scoop-games
+[submodule "BucketSubmodules/extras"]
+	path = BucketSubmodules/extras
+	url = https://github.com/lukesampson/scoop-extras
+[submodule "BucketSubmodules/cone"]
+	path = BucketSubmodules/cone
+	url = https://github.com/Milo123459/cone
+[submodule "BucketSubmodules/ShovelBase"]
+	path = BucketSubmodules/ShovelBase
+	url = https://github.com/shovel-org/Base
